@@ -1,0 +1,23 @@
+Results of yolov8n: {'metrics/precision(B)': 0.8851066374973405, 'metrics/recall(B)': 0.8378126960515889, 'metrics/mAP50(B)': 0.8890233333804596, 'metrics/mAP50-95(B)': 0.699146883050976, 'fitness': 0.7181345280839244}
+Speed of yolov8n:{'preprocess': 0.14049306630876704, 'inference': 0.6672549057345318, 'loss': 0.000887247134651245, 'postprocess': 0.4651053563196678}
+
+Results of yolov8x: {'metrics/precision(B)': 0.9040921939097574, 'metrics/recall(B)': 0.8775341235143667, 'metrics/mAP50(B)': 0.9136978228775247, 'metrics/mAP50-95(B)': 0.7571458207561826, 'fitness': 0.7728010209683169}
+Speed of yolov8x:{'preprocess': 0.08198298917159424, 'inference': 5.882740232303488, 'loss': 0.0008876702377197483, 'postprocess': 0.3610340599053289}
+
+Results of yolov9t: {'metrics/precision(B)': 0.8905078071142855, 'metrics/recall(B)': 0.8310708213125947, 'metrics/mAP50(B)': 0.8997317342576118, 'metrics/mAP50-95(B)': 0.7232884441169933, 'fitness': 0.7409327731310552}
+Speed of yolov9t:{'preprocess': 0.11526343033392025, 'inference': 0.9146906574320349, 'loss': 0.0, 'postprocess': 0.41448192037939496}
+
+Results of yolov9e: {'metrics/precision(B)': 0.8984133199303272, 'metrics/recall(B)': 0.8588314449402352, 'metrics/mAP50(B)': 0.9047402568635919, 'metrics/mAP50-95(B)': 0.7504011265666735, 'fitness': 0.7658350395963653}
+Speed of yolov9e:{'preprocess': 0.09167289564645491, 'inference': 7.246568547801413, 'loss': 0.0, 'postprocess': 0.3477145637573134}
+
+Results of yolov10n: {'metrics/precision(B)': 0.8826893176405392, 'metrics/recall(B)': 0.8216736963543405, 'metrics/mAP50(B)': 0.8879028428088024, 'metrics/mAP50-95(B)': 0.7023247472298749, 'fitness': 0.7208825567877677}
+Speed of yolov10n:{'preprocess': 0.11786297558680402, 'inference': 0.699338176764528, 'loss': 0.0, 'postprocess': 0.08661935259625249}
+
+Results of yolov10x: {'metrics/precision(B)': 0.9059644214023544, 'metrics/recall(B)': 0.8502285343460251, 'metrics/mAP50(B)': 0.9069591243983753, 'metrics/mAP50-95(B)': 0.7544494242886811, 'fitness': 0.7697003942996505}
+Speed of yolov10x:{'preprocess': 0.09426376728643436, 'inference': 5.513713543882599, 'loss': 0.0, 'postprocess': 0.06462285871937302}
+
+Results of yolo11n: {'metrics/precision(B)': 0.8980840440806438, 'metrics/recall(B)': 0.8335909707167296, 'metrics/mAP50(B)': 0.8944842167521122, 'metrics/mAP50-95(B)': 0.7062863280715957, 'fitness': 0.7251061169396473}
+Speed of yolo11n:{'preprocess': 0.11311893243121171, 'inference': 0.6469171874377192, 'loss': 0.0017753404754394966, 'postprocess': 0.366180685630602}
+
+Results of yolo11x: {'metrics/precision(B)': 0.9201486386886489, 'metrics/recall(B)': 0.8504176591815485, 'metrics/mAP50(B)': 0.9120634810551301, 'metrics/mAP50-95(B)': 0.7568956098510398, 'fitness': 0.7724123969714488}
+Speed of yolo11x:{'preprocess': 0.09671861128989002, 'inference': 5.747055309265191, 'loss': 0.0, 'postprocess': 0.3519855776823191}
