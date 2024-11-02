@@ -1,4 +1,5 @@
 train: C:/Users/ameen/Desktop/Project_GUN_Detection/Datasets/RiskScanConstruction/images/train          # Path to training images
-val: C:/Users/ameen/Desktop/Project_GUN_Detection/Datasets/RiskScanConstruction/images/test             # Path to validation images
+val: C:/Users/ameen/Desktop/Project_GUN_Detection/Datasets/RiskScanConstruction/images/val              # Path to validation images
+test: C:/Users/ameen/Desktop/Project_GUN_Detection/Datasets/RiskScanConstruction/images/test            # Path to test images
 nc: 3                                                                                          # Number of classes
 names: ['Person', 'Gun', 'Tools']                                                              # Replace with your class names
